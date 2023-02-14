@@ -5,3 +5,5 @@ function btnFunc(){
     img.src = '/images/images.jpg';
     document.body.appendChild(img);
 }
+
+alert('hello');
