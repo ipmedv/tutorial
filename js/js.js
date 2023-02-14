@@ -14,3 +14,5 @@ alert('lal');
 
 alert('кек');
 alert('хех');
+
+confirm('well well well...');
