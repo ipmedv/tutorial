@@ -8,3 +8,9 @@ function btnFunc(){
 
 alert('hello');
 confirm('Если ты робот, нажми "Ок", если ты дебил, нажми "Отмена"');
+
+alert('lol');
+alert('lal');
+
+alert('кек');
+alert('хех');
